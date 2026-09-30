@@ -1,0 +1,6 @@
+{
+  "name": "PySort Studio - JPG & Media File Organizer",
+  "description": "Automate, organize, and sort JPG photos and media files. Run in-browser folder sorting, simulate Python scripts, batch organize, and export customized automation code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
